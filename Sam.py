@@ -1,0 +1,7 @@
+name = input("Enter then name:")
+dol = int(input("Enter the days of leave:"))
+year = int(input("Enter the year:"))
+print("=" * 100)
+print("Your Details")
+print("=" * 100)
+print("Dear", name + "," , "\nYou have" , dol , "days of leave balance for this" , "\nYear" , "( year)")

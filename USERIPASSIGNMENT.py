@@ -1,0 +1,8 @@
+print("*"*50)
+name=input("Username : ")
+email=input("Email: ")
+phno=int(input("Ph :"))
+print(name)
+print(email)
+print(phno)
+print("*"*50)
